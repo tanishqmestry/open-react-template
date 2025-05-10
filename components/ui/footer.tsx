@@ -26,7 +26,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   Features
@@ -34,7 +34,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   Integrations
@@ -42,7 +42,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   Pricing &amp; Plans
@@ -50,7 +50,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   Changelog
@@ -58,7 +58,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   Our method
@@ -66,7 +66,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   User policy
@@ -76,11 +76,11 @@ export default function Footer() {
           </div>
           {/* 2nd block */}
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-gray-200">Company</h3>
+            <h3 className="text-sm font-medium text-red-200">Company</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   About us
@@ -88,7 +88,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-red-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
                   Diversity &amp; Inclusion
